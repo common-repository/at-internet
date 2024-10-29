@@ -1,0 +1,189 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ATInternet SmartTag 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/WordPress-Plugin-Template\n"
+"POT-Creation-Date: 2017-02-06 08:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: includes/class-atinternet-smarttag-metabox.php:19
+msgid "Level 2"
+msgstr ""
+
+#: includes/class-atinternet-smarttag-metabox.php:27
+msgid "Chapter 1"
+msgstr ""
+
+#: includes/class-atinternet-smarttag-metabox.php:32
+msgid "Chapter 2"
+msgstr ""
+
+#: includes/class-atinternet-smarttag-metabox.php:37
+msgid "Chapter 3"
+msgstr ""
+
+#: includes/class-atinternet-smarttag-metabox.php:42
+msgid "Name"
+msgstr ""
+
+#. Author of the plugin
+#: includes/class-atinternet-smarttag-metabox.php:60
+#: includes/class-atinternet-smarttag-settings.php:70
+#: includes/class-atinternet-smarttag-settings.php:70
+msgid "AT Internet"
+msgstr ""
+
+#: includes/class-atinternet-smarttag-settings.php:99
+msgid "Settings"
+msgstr ""
+
+#: includes/class-atinternet-smarttag-settings.php:111
+msgid "Tracker"
+msgstr ""
+
+#: includes/class-atinternet-smarttag-settings.php:112
+msgid "Your tracker configuration."
+msgstr ""
+
+#: includes/class-atinternet-smarttag-settings.php:116
+msgid "Log"
+msgstr ""
+
+#: includes/class-atinternet-smarttag-settings.php:117
+msgid "Collect log."
+msgstr ""
+
+#: includes/class-atinternet-smarttag-settings.php:120
+#: includes/class-atinternet-smarttag-settings.php:128
+msgid "logp"
+msgstr ""
+
+#: includes/class-atinternet-smarttag-settings.php:124
+msgid "Log SSL"
+msgstr ""
+
+#: includes/class-atinternet-smarttag-settings.php:125
+msgid "Secured collect log."
+msgstr ""
+
+#: includes/class-atinternet-smarttag-settings.php:132
+msgid "Use SSL only?"
+msgstr ""
+
+#: includes/class-atinternet-smarttag-settings.php:133
+msgid "Use only secure collect?"
+msgstr ""
+
+#: includes/class-atinternet-smarttag-settings.php:139
+msgid "Site number"
+msgstr ""
+
+#: includes/class-atinternet-smarttag-settings.php:140
+msgid "Site number on which you want to send the data."
+msgstr ""
+
+#: includes/class-atinternet-smarttag-settings.php:143
+msgid "123456"
+msgstr ""
+
+#: includes/class-atinternet-smarttag-settings.php:147
+msgid "Collect domain"
+msgstr ""
+
+#: includes/class-atinternet-smarttag-settings.php:155
+msgid "Use eCommerce (WooCommerce)?"
+msgstr ""
+
+#: includes/class-atinternet-smarttag-settings.php:156
+msgid "Do you wish to measure your ecommerce activty? (Woocommerce only)"
+msgstr ""
+
+#: includes/class-atinternet-smarttag-settings.php:163
+msgid "Labels"
+msgstr ""
+
+#: includes/class-atinternet-smarttag-settings.php:167
+msgid "Page labelling type"
+msgstr ""
+
+#: includes/class-atinternet-smarttag-settings.php:168
+msgid "How do you wish to label your page?"
+msgstr ""
+
+#: includes/class-atinternet-smarttag-settings.php:170
+msgid "Category/Title structure"
+msgstr ""
+
+#: includes/class-atinternet-smarttag-settings.php:170
+msgid "Custom for each post"
+msgstr ""
+
+#: includes/class-atinternet-smarttag-settings.php:170
+msgid "Page URL"
+msgstr ""
+
+#: includes/class-atinternet-smarttag-settings.php:175
+msgid "Home page label"
+msgstr ""
+
+#: includes/class-atinternet-smarttag-settings.php:176
+#: includes/class-atinternet-smarttag-settings.php:184
+msgid "Chapters can be included with \"chapter::name\" syntax"
+msgstr ""
+
+#: includes/class-atinternet-smarttag-settings.php:179
+msgid "Home"
+msgstr ""
+
+#: includes/class-atinternet-smarttag-settings.php:183
+msgid "Search results page label"
+msgstr ""
+
+#: includes/class-atinternet-smarttag-settings.php:187
+msgid "Search_results"
+msgstr ""
+
+#: includes/class-atinternet-smarttag-settings.php:255
+msgid "AT Internet settings"
+msgstr ""
+
+#: includes/class-atinternet-smarttag-settings.php:307
+msgid "Save Settings"
+msgstr ""
+
+#: includes/lib/class-atinternet-smarttag-admin-api.php:159
+msgid "Upload an image"
+msgstr ""
+
+#: includes/lib/class-atinternet-smarttag-admin-api.php:159
+msgid "Use image"
+msgstr ""
+
+#: includes/lib/class-atinternet-smarttag-admin-api.php:159
+msgid "Upload new image"
+msgstr ""
+
+#: includes/lib/class-atinternet-smarttag-admin-api.php:160
+msgid "Remove image"
+msgstr ""
+
+#. Name of the plugin
+msgid "AT Internet SmartTag"
+msgstr ""
+
+#. Description of the plugin
+msgid "AT Internet official extension, allowing website tracking."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://www.atinternet.com/"
+msgstr ""
